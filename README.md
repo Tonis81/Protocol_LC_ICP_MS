@@ -6,6 +6,12 @@
 
 1-   Encendemos el ICP-MS como habitualmente. Es decir, abrimos el argón tanto fuera como en el laboratorio, activamos el automuestreador y le quitamos la tapa, comprobamos que la botella de HNO3 1% está llena, abrimos el He, encendemos el cooling water, encendemos el aire acondicionado, activamos la campana extractora.
 
+<img src="Apertura de gases.png" style="zoom:80%;" />
+
+
+
+
+
 2-   Conectamos el capilar procedente del HPLC al nebulizador del ICP-MS.
 
 3-   Encendemos el HPLC, encendiendo en último lugar la bomba A, puesto que esta cuenta con el controlador del equipo. Por el mismo motivo, cuando apaguemos el HPLC, la bomba A será el primer componente que apagaremos.
