@@ -2,6 +2,8 @@
 
 # PROCEDIMIENTO DE ANÁLISIS DE ESPECIES ARSENICALES MEDIANTE  HPLC-ICP-MS
 
+<span  style="color:green">*Marcos Rodriguez Estrada, .... Antono J. Signes Pastor*</span>
+
 <span  style="color:red">**IMPORTANTE: SEGUIR ESTAS INSTRUCCIONES RIGUROSAMENTE**</span>
 
 1-   Encendemos el ICP-MS como habitualmente. Es decir, abrimos el argón tanto fuera como en el laboratorio, activamos el automuestreador y le quitamos la tapa, comprobamos que la botella de HNO3 1% está llena, abrimos el He, encendemos el cooling water, encendemos el aire acondicionado, activamos la campana extractora.
@@ -90,5 +92,4 @@ Tipo 1 (método de gradiente)
 2. Recordar colocar las fases mobiles. En B las de sales y en A las acuoasas.
 3. Recorda que en shut down hay que poner las dos fases mobies en A la solución acuosa. Es importante que en toda la coducción que agua. Esto se puede cambiar de forma rápida. Eliminar todo el fosfato que pueda quedar en todas las conducciones. 
 4. Para apagar donde está la columna hay que presional el boton.
-
 
