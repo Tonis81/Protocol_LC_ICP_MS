@@ -93,3 +93,17 @@ Tipo 1 (método de gradiente)
 3. Recorda que en shut down hay que poner las dos fases mobies en A la solución acuosa. Es importante que en toda la coducción que agua. Esto se puede cambiar de forma rápida. Eliminar todo el fosfato que pueda quedar en todas las conducciones. 
 4. Para apagar donde está la columna hay que presional el boton.
 
+
+
+<br/>
+
+---
+
+<br/>
+
+**Documentación de interés:**
+
+>  [Arsenic Speciation - Type 1](https://drive.google.com/file/d/1ZD2Z_fhuI_FM763kokXqBSMJR-Jmwc08/view?usp=drive_link)
+>
+> [Arsenic Speciation - Type 2](https://drive.google.com/file/d/1ZFXx-ZGOIkFd5bDkk7fw1Q2x2OqnwSbS/view?usp=drive_link)
+
